@@ -1,0 +1,15 @@
+{
+  "name": "dictionary",
+  "version": "0.1.0",
+  "description": "Dictionary for document",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "author": "liliang.zhu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.9"
+  }
+}
