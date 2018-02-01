@@ -9,7 +9,10 @@
   "author": "liliang.zhu",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.4",
     "express": "^4.16.2",
-    "mongoose": "^4.13.9"
+    "material-ui-search-bar": "^0.4.1",
+    "mongoose": "^4.13.9",
+    "serve-static": "^1.13.1"
   }
 }
