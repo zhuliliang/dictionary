@@ -70,6 +70,6 @@ app.get('/api/keywords', function(req, res, next) {
 app.use('/', serveStatic(__dirname + '/_site'));
 
 
-app.listen(30003, function() {
-  console.log("Server Running on http://localhost:30003");
+app.listen(3002, function() {
+  console.log("Server Running on http://localhost:3002");
 });
